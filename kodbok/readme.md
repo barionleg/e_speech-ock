@@ -8,3 +8,6 @@ https://barionleg.github.io/e_speech-ock/kodbok/ipa_chart_2020.svg
 
 https://barionleg.github.io/e_speech-ock/kodbok/Cardinal_vowel_tongue_position-front.svg
 
+https://barionleg.github.io/e_speech-ock/kodbok/IPA_chart_uR.Pycckuü.svg
+
+https://barionleg.github.io/e_speech-ock/kodbok/IPA_chart_2018.pdf
